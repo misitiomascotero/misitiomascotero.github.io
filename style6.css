@@ -1,0 +1,25 @@
+body
+{
+    background-color: coral;
+    
+}
+
+.css-3d-text {
+    font-size: 50px;
+    color: #075aff;
+    font-family: "Arial Black", Gadget, sans-serif;
+    text-shadow: 0px 0px 0 rgb(2,85,250),
+                 1px 1px 0 rgb(-3,80,245),
+                 2px 2px 0 rgb(-8,75,240),
+                 3px 3px 0 rgb(-13,70,235),
+                 4px 4px 0 rgb(-18,65,230),
+                 5px 5px 0 rgb(-23,60,225),
+                 6px 6px 0 rgb(-28,55,220),
+                 7px 7px 0 rgb(-33,50,215),
+                 8px 8px 0 rgb(-38,45,210),
+                 9px 9px 0 rgb(-43,40,205),
+                 10px 10px  0 rgb(-48,35,200),
+                 11px 11px 10px rgba(0,0,0,0.6),
+                 11px 11px 1px rgba(0,0,0,0.5),
+                 0px 0px 10px rgba(0,0,0,.2);
+ }
